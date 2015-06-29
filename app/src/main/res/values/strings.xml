@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ExemploMenu</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="nav_drawer_items">
+        <item>Remédios</item>
+        <item >Horários</item>
+        <item >Pacientes</item>
+        <item >Mensagens</item>
+        <item >Sobre</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@mipmap/ic_star</item>
+        <item>@mipmap/ic_horario</item>
+        <item>@mipmap/ic_person</item>
+        <item>@mipmap/ic_email</item>
+        <item>@mipmap/ic_about</item>
+    </array>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
